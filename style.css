@@ -85,3 +85,24 @@ h1 {
     grid-template-columns: 1fr;
   }
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 400px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+ul li {
+  margin-bottom: 12px;
+  font-size: 1.1em;
+  color: #fff;
+}
+
+ul li strong {
+  color: #ffd700; /* doré pour les titres */
+}
