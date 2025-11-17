@@ -4,13 +4,15 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(135deg, #6a11cb, #2575fc);
-  color: #333;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Titre principal */
 h1 {
   text-align: center;
-  color: white;
   margin: 40px 0 20px;
   font-size: 2.5em;
   letter-spacing: 1px;
@@ -28,9 +30,9 @@ h1 {
 
 /* Cartes pays */
 .card {
-  background: white;
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
   transition: transform 0.3s, box-shadow 0.3s;
   padding: 30px 20px;
   text-align: center;
@@ -38,7 +40,7 @@ h1 {
 
 .card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 
 /* Lien dans la carte */
@@ -52,4 +54,22 @@ h1 {
 
 .card a:hover {
   color: #6a11cb;
+}
+
+/* Bouton retour */
+.back-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #fff;
+  color: #2575fc;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s, color 0.3s;
+}
+
+.back-btn:hover {
+  background: #2575fc;
+  color: #fff;
 }
