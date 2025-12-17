@@ -10,5 +10,8 @@
   { "name": "Saint-Marin", "url": "countries/europe/sanmarino.html", "continent": "europe" },
   { "name": "Suisse", "url": "countries/europe/switzerland.html", "continent": "europe" },
   { "name": "Vatican", "url": "countries/europe/vatican.html", "continent": "europe" },
-  { "name": "États-Unis d'Amérique", "url": "countries/america/united_states_od_america.html", "continent": "america" }
+  { "name": "États-Unis d'Amérique", "url": "countries/america/united_states_od_america.html", "continent": "america" },
+  { "name": "Australie", "url": "countries/oceania/australia.html", "continent": "oceania" },
+  { "name": "Chine", "url": "countries/asia/china.html", "continent": "asia" },
+  { "name": "Afrique du Sud", "url": "countries/africa/south_africa.html", "continent": "africa" }
 ]
