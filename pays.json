@@ -1,5 +1,5 @@
 [
-  { "name": "Allemagne", "url": "countries/europe/germany.html" },
+  { "name": "Allemagne", "url": "countries/europe/germany.html", "continent": "europe" },
   { "name": "Andorre", "url": "countries/europe/andorra.html" },
   { "name": "Espagne", "url": "countries/europe/spain.html" },
   { "name": "France", "url": "countries/europe/france.html" },
@@ -10,5 +10,5 @@
   { "name": "Saint-Marin", "url": "countries/europe/sanmarino.html" },
   { "name": "Suisse", "url": "countries/europe/switzerland.html" },
   { "name": "Vatican", "url": "countries/europe/vatican.html" },
-  { "name": "États-Unis d'Amérique", "url": "countries/america/united_states_od_america.html" }
+  { "name": "États-Unis d'Amérique", "url": "countries/america/united_states_od_america.html", "continent": "america" }
 ]
