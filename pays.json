@@ -1,0 +1,13 @@
+[
+  { "name": "Allemagne", "url": "countries/germany.html" },
+  { "name": "Andorre", "url": "countries/andorra.html" },
+  { "name": "Espagne", "url": "countries/spain.html" },
+  { "name": "France", "url": "countries/france.html" },
+  { "name": "Italie", "url": "countries/italy.html" },
+  { "name": "Monaco", "url": "countries/monaco.html" },
+  { "name": "Portugal", "url": "countries/portugal.html" },
+  { "name": "Royaume-Uni", "url": "countries/unitedkingdom.html" },
+  { "name": "Saint-Marin", "url": "countries/sanmarino.html" },
+  { "name": "Suisse", "url": "countries/switzerland.html" },
+  { "name": "Vatican", "url": "countries/vatican.html" }
+]
