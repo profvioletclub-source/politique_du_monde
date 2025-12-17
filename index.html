@@ -7,59 +7,10 @@
 </head>
 <body>
   <h1>Liste des pays de la planète</h1>
-  <div class="grid">
-    <div class="card">
-      <a href="countries/france.html">France</a>
-    </div>
-    <div class="card">
-      <a href="countries/germany.html">Allemagne</a>
-    </div>
-    <div class="card">
-      <a href="countries/italy.html">Italie</a>
-    </div>
-    <div class="card">
-      <a href="countries/switzerland.html">Suisse</a>
-    </div>
-    <div class="card">
-      <a href="countries/andorra.html">Andorre</a>
-    </div>
-    <div class="card">
-      <a href="countries/monaco.html">Monaco</a>
-    </div>
-    <div class="card">
-      <a href="countries/spain.html">Espagne</a>
-    </div>
-    <div class="card">
-      <a href="countries/portugal.html">Portugal</a>
-    </div>
-    <div class="card">
-      <a href="countries/unitedkingdom.html">Royaume-Uni</a>
-    </div>
-    <div class="card">
-      <a href="countries/sanmarino.html">Saint-Marin</a>
-    </div>
-    <div class="card">
-      <a href="countries/vatican.html">Vatican</a>
-    </div>
-    <!-- Ajoute les autres pays -->
-  </div>
+  <div class="grid" id="countryGrid"></div>
 
   <p>À venir : Irlande, Islande, Norvège, Suède, Finlande, Russie, Biélorussie, Estonie, Lettonie, Lituanie, Pologne, Danemark, Pays-Bas, Belgique, Luxembourg, Liechtenstein, Autriche, Slovénie, Slovaquie, Tchéquie, Hongrie, Serbie, Croatie, Bosnie-Herzégovine, Monténégro, Macédoine du Nord, Grèce, Roumanie, Bulgarie, Ukraine, Moldavie, Malte.</p>
 
-  <script>
-    const grid = document.getElementById("countryGrid");
-    const cards = Array.from(grid.querySelectorAll(".card"));
-
-    // Tri alphabétique basé sur le texte du lien
-    cards.sort((a, b) => {
-      const nameA = a.textContent.trim();
-      const nameB = b.textContent.trim();
-      return nameA.localeCompare(nameB, 'fr');
-    });
-
-    // Réinjection des cartes triées
-    grid.innerHTML = "";
-    cards.forEach(card => grid.appendChild(card));
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
