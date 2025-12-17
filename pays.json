@@ -1,13 +1,14 @@
 [
-  { "name": "Allemagne", "url": "countries/germany.html" },
-  { "name": "Andorre", "url": "countries/andorra.html" },
-  { "name": "Espagne", "url": "countries/spain.html" },
-  { "name": "France", "url": "countries/france.html" },
-  { "name": "Italie", "url": "countries/italy.html" },
-  { "name": "Monaco", "url": "countries/monaco.html" },
-  { "name": "Portugal", "url": "countries/portugal.html" },
-  { "name": "Royaume-Uni", "url": "countries/unitedkingdom.html" },
-  { "name": "Saint-Marin", "url": "countries/sanmarino.html" },
-  { "name": "Suisse", "url": "countries/switzerland.html" },
-  { "name": "Vatican", "url": "countries/vatican.html" }
+  { "name": "Allemagne", "url": "countries/europe/germany.html" },
+  { "name": "Andorre", "url": "countries/europe/andorra.html" },
+  { "name": "Espagne", "url": "countries/europe/spain.html" },
+  { "name": "France", "url": "countries/europe/france.html" },
+  { "name": "Italie", "url": "countries/europe/italy.html" },
+  { "name": "Monaco", "url": "countries/europe/monaco.html" },
+  { "name": "Portugal", "url": "countries/europe/portugal.html" },
+  { "name": "Royaume-Uni", "url": "countries/europe/unitedkingdom.html" },
+  { "name": "Saint-Marin", "url": "countries/europe/sanmarino.html" },
+  { "name": "Suisse", "url": "countries/europe/switzerland.html" },
+  { "name": "Vatican", "url": "countries/europe/vatican.html" },
+  { "name": "États-Unis d'Amérique", "url": "countries/america/united_states_od_america.html" }
 ]
