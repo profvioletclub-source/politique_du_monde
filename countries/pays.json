@@ -22,14 +22,14 @@
   { "name": "Russie - A venir", "url": "europe/russia.html", "continent": "europe" },
   { "name": "Biélorussie", "url": "europe/belarus.html", "continent": "europe" },
   { "name": "Estonie", "url": "europe/estonia.html", "continent": "europe" },
-  { "name": "Lettonie - A venir", "url": "europe/latvia.html", "continent": "europe" },
-  { "name": "Lithuanie - A venir", "url": "europe/lithuania.html", "continent": "europe" },
+  { "name": "Lettonie", "url": "europe/latvia.html", "continent": "europe" },
+  { "name": "Lithuanie", "url": "europe/lithuania.html", "continent": "europe" },
   { "name": "Pologne - A venir", "url": "europe/poland.html", "continent": "europe" },
   { "name": "Danemark", "url": "europe/denmark.html", "continent": "europe" },
   { "name": "Pays-Bas - A venir", "url": "europe/netherland.html", "continent": "europe" },
   { "name": "Belgique", "url": "europe/belgium.html", "continent": "europe" },
-  { "name": "Luxembourg - A venir", "url": "europe/luxemburg.html", "continent": "europe" },
-  { "name": "Liechtenstein - A venir", "url": "europe/liechtenstein.html", "continent": "europe" },
+  { "name": "Luxembourg", "url": "europe/luxemburg.html", "continent": "europe" },
+  { "name": "Liechtenstein", "url": "europe/liechtenstein.html", "continent": "europe" },
   { "name": "Autriche", "url": "europe/austria.html", "continent": "europe" },
   { "name": "Slovénie - A venir", "url": "europe/slovenia.html", "continent": "europe" },
   { "name": "Slovaquie - A venir", "url": "europe/slovakia.html", "continent": "europe" },
@@ -45,5 +45,5 @@
   { "name": "Bulgarie", "url": "europe/bulgaria.html", "continent": "europe" },
   { "name": "Ukraine - A venir", "url": "europe/ukraine.html", "continent": "europe" },
   { "name": "Moldavie - A venir", "url": "europe/moldova.html", "continent": "europe" },
-  { "name": "Malte - A venir", "url": "europe/malta.html", "continent": "europe" }
+  { "name": "Malte", "url": "europe/malta.html", "continent": "europe" }
 ]
